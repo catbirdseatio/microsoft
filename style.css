@@ -338,4 +338,9 @@ footer globe i {
     links links-inner ul {
         margin-bottom: 2rem;
     }
+
+    carbon content {
+        width: 90%;
+        padding: 1rem 0 0 .5rem
+    }
 }
