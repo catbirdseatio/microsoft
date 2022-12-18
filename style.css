@@ -321,7 +321,7 @@ footer globe i {
         margin-bottom: 20px;
       }
     
-      .carbon content {
+      carbon content {
         width: 85%;
       }
 }
@@ -337,10 +337,5 @@ footer globe i {
 
     links links-inner ul {
         margin-bottom: 2rem;
-    }
-
-    carbon content {
-        width: 90%;
-        padding: 1rem 0 0 .5rem
     }
 }
